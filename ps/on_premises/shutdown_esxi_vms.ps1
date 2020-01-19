@@ -5,7 +5,7 @@ Clear-Host
 
 $computers = @("vmcentos8splunk", "vmw2k19eval1", "vmw2k16sccm19", "vmw2k12r2sql16", "vmw2k12r2dc1", "vmw2k12r2dc0")
 
-$admin = Get-Credential bitsbyteslab\ray.bishun
+$admin = Get-Credential domain\userId
 
 foreach($computer in $computers)
 {
