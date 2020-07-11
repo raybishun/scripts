@@ -31,19 +31,19 @@
 1. Select - Application permissions (Your app runs as a background service or daemon without a signed-in user)
 2. Under Permissions, select the below
 
-- AdvancedQuery\AdvancedQuery.Read.All (Run advanced queries)
-- Alert\Alert.Read.All (Read all alerts)
-- File\File.Read.All (Read file profiles)
-- Ip\Ip.Read.All (Read IP address profiles)
-- Machine\Machine.Read.All (Read all machine profiles)
-- Score\Score.Read.All (Read Threat and Vulnerability Management score)
-- SecurityConfiguration\SecurityConfiguration.Read.All (Read Threat and Vulnerability Management security information)
-- SecurityRecommendation\SecurityRecommendation.Read.All (Read Threat and Vulnerability Management security recommendations)
-- Software\Software.Read.All (Read Threat and Vulnerability Management software information)
-- Ti\Ti.Read.All (read all IOCs)
-- Url\Url.Read.All (Read URL profiles)
-- User\User.Read.All (Read user profiles)
-- Vulnerability\Vulnerability.Read.All (Read Threat and Vulnerability Management vulnerability information)
+	- AdvancedQuery\AdvancedQuery.Read.All (Run advanced queries)
+	- Alert\Alert.Read.All (Read all alerts)
+	- File\File.Read.All (Read file profiles)
+	- Ip\Ip.Read.All (Read IP address profiles)
+	- Machine\Machine.Read.All (Read all machine profiles)
+	- Score\Score.Read.All (Read Threat and Vulnerability Management score)
+	- SecurityConfiguration\SecurityConfiguration.Read.All (Read Threat and Vulnerability Management security information)
+	- SecurityRecommendation\SecurityRecommendation.Read.All (Read Threat and Vulnerability Management security recommendations)
+	- Software\Software.Read.All (Read Threat and Vulnerability Management software information)
+	- Ti\Ti.Read.All (read all IOCs)
+	- Url\Url.Read.All (Read URL profiles)
+	- User\User.Read.All (Read user profiles)
+	- Vulnerability\Vulnerability.Read.All (Read Threat and Vulnerability Management vulnerability information)
 3. Add permissions
 
 ### Grant consent
